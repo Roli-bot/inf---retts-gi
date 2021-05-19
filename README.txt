@@ -1,0 +1,1 @@
+Az előre megírt css-t nem vettem észre, ezért azt nem használtam fel 
