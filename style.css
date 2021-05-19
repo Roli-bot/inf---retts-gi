@@ -1,0 +1,54 @@
+body{
+    background-image: url(img/bg.png);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f0f8ff;
+}
+
+h1, h2, h3, h4, h5{
+    color: #00008b;
+}
+p{
+    color: #00008b;
+}
+h2{
+    margin-right: 40%;
+    color: #00008b;
+    	font-size: 11pt;
+        padding: 5px;
+	
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+    background-color: white;
+    margin-left: 19%;
+    margin-right: 19%;
+}
+.flex-container{
+    display: flex;
+    float: left;
+    padding: 0px;
+}
+.img{
+    width: 70%;
+    margin-left: 10%;
+}
+.oszlop1{
+    
+}
+.szoveg{
+   
+    margin: 0 auto 0 auto;
+	text-align: left; 
+   text-align: justify;
+    
+}
+hr{
+    width: 80%;
+}
+a:link{
+    color: #dc143c;
+}
+a:visited{
+        color: #dc143c;
+}
